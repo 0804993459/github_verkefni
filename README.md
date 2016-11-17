@@ -1,7 +1,7 @@
 
 #GitHub einstaklingsverkefni 
 
-##Greinar og samruni -
+##Greinar og samruni -bull bull
 safdsafsafsda
 bull
 bull
