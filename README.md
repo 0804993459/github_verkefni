@@ -2,6 +2,9 @@
 #GitHub einstaklingsverkefni 
 
 ##Greinar og samruni - Branching and Merging
+safdsafsafsda
+bull
+bull
 <ol>
  <li>Skoðaðu vinnuferlið í framkvæmdaskrá (Commits) geymslunnar
  	<i> https://github.com/VSH24/github_verkefni/commits/master </i>
