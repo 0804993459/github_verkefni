@@ -1,7 +1,7 @@
 
 #GitHub einstaklingsverkefni 
 
-##Greinar og samruni - Branching and Merging
+##Greinar og samruni - Branching and Merging krash
 safdsafsafsda
 bull
 bull
